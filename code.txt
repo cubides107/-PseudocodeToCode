@@ -1,0 +1,7 @@
+Algoritmo sin_titulo
+    Definir aux, b, c Como Float
+    Definir z, w Como Entero
+    Definir d,a Como Caracter
+    Leer a,b,c
+    Escribir result
+FinAlgoritmo
